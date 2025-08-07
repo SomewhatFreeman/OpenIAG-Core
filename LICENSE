@@ -659,3 +659,14 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+
+--------------------------------------------------------------------
+Additional Term 7 — Transparency of Axioms
+--------------------------------------------------------------------
+Any modification that changes the list or semantics of axioms A1–A5 MUST
+(a) change the public project name and all associated branding, AND
+(b) publish the new list of axioms at /axioms/<version>.txt in the modified work.
+
+Failure to comply terminates your rights under this License.
+
